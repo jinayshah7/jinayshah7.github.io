@@ -2,10 +2,10 @@
 # Site settings
 title: Jinay Shah
 email: jinay.sh99@gmail.com
-description: Software Engineer / Machine Learning Engineer
+description: Software Engineer | Machine Learning Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
+url: "http://jinayshah7.github.io" # the base hostname & protocol for your site
+# youtube_username: jinayshah
 github_username:  jinayshah7
 paginate: 50
 theme-dark: false #Set to true to change to dark website theme
