@@ -2,7 +2,7 @@
 # Site settings
 title: Jinay Shah
 email: jinay.sh99@gmail.com
-description: Software Engineer | Machine Learning Engineer
+description: Software Engineer / Machine Learning Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jinayshah7.github.io" # the base hostname & protocol for your site
 # youtube_username: jinayshah
