@@ -4,7 +4,7 @@ title: Jinay Shah
 email: jinay.sh99@gmail.com
 description: Software Engineer / ML Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jinayshah7.github.io" # the base hostname & protocol for your site
+url: "http://localhost:8000" # the base hostname & protocol for your site
 # youtube_username: jinayshah
 github_username:  jinayshah7
 paginate: 50
