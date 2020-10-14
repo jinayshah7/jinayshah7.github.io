@@ -1,4 +1,4 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:builder
 
 RUN gem install bundle jekyll-paginate
 

@@ -2,8 +2,8 @@ version: '2.4'
 
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    image: jekyll/jekyll:builder
     volumes:
       - .:/site
     ports:
-      - '8080:4000'
+      - '8000:4000'
