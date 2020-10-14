@@ -8,7 +8,8 @@ Education
 ---
 
 <p style="margin:0;display:inline;float:left">Master of IT: Data Science </p>
-<p style="margin:0;display:inline;float:right" >Sep 2019 - Sep 2021</p>
+<p style="margin:0;display:inline;float:right" >Expected Sep 2021</p>
+
 <br>
 - **Thesis**:   Semantic Representation Of Human Behaviours Using Numerical Vectors
 - Built 5 neural network architectures for making behaviour vectors
@@ -88,6 +89,6 @@ Achievements
 ---
 - 6000 CAD - MITACS Research and Training Award (2020)
 - Judge @ Oakhacks Hackathon, Canada (2020)
-- Cost of Living Using Crowd-Sourced Data, Research Project @ Defence Canada (2020)
+- Cost of Living Analysis Using Crowd-Sourced Data, Research Project @ Defence Canada (2020)
 - Top 2 @ Canadian Partnership Against Cancer Hackathon (2019)
 - 4000 CAD - IT Department Graduate Scholarship (2019)
