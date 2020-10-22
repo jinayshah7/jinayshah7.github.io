@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My Reading List: Oct 2020"
-date:   2020-10-13 19:00:00 +0530
+title:  "My Reading List For Software Engineering"
+date:   2020-10-15 19:00:00 +0530
 categories: random
 author: "Jinay Shah"
 ---
