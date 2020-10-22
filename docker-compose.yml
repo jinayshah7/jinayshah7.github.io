@@ -1,9 +1,0 @@
-version: '2.4'
-
-services:
-  jekyll:
-    image: jekyll/jekyll:builder
-    volumes:
-      - .:/site
-    ports:
-      - '8000:4000'
