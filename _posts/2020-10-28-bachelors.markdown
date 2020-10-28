@@ -10,6 +10,6 @@ My college was a no-name college in the Western part of India. They took up most
 
 In the first three years, I managed to read 170 books. It was a combination of Kindle, physical books, and audiobooks. I did have a social life but I spent most of my free time reading. It was a combination of books being a good source of wisdom and my own hunger for knowledge & exposure to the outer world.
 
-Apart from books, I also liked listening to podcasts and getting new perspectives every day. Most of my podcasts are psychology, finance, economics, fiction, etc. I'll write dedicated posts to mention all the podcasts I listen. For now, my favorite is Planet Money.
+Apart from books, I also liked listening to podcasts and getting new perspectives every day. Most of my podcasts are psychology, finance, economics, fiction, etc. I'll write dedicated posts to mention all the podcasts I listen and books I loved. For now, my favorite is Planet Money.
 
 It was good times, I learned a lot during these 4 years and my college had nothing to do with it. That's all I wanted to write here.
