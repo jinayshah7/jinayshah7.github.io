@@ -25,7 +25,7 @@ author: "Jinay Shah"
 9. <span style="font-weight: 500; display: inline">Bound</span> - It’s an audiobook player with minimal UI. I also have audible but I only use it for books exclusive to audible.
 
 Minimal and clean UI played an important role in the choices I’ve made. Most of them are iOS only apps sadly. I like to rely on technology to reduce my workload and leverage the fact that we’re in the 21st century. Using a combination all these apps truly helps me simplify my workflow and allows me to shift my focus on more important ideas.
-
+2020-10-21-piano-songs.markdown
 I’m also planning to include Trello in here when I finally start using that. Roam Research is absent from here because I’m planning to transfer all those notes to Bear now. I’m a bit uncomfortable with the lack of organization in Roam. I hope the list helped you discover something great for your workflow.
 
 

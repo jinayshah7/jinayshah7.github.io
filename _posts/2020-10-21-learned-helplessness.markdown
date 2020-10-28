@@ -18,16 +18,14 @@ Fast forward to Sep 2019, I joined one of the top engineering universities in Ca
 
 “Hmm. But you should still apply, right?”
 
-“Yeah, maybe.”
+“Yeah, maybe. Google is probably out of my league and the best I’ll do is get a phone screen and fail miserably.”
 
-I checked out their website after that and it was already too late to apply. “Next time!”, I thought. One of my professors worked at Google previously and asked me why I didn’t apply. The conversation was the similar to the one I had with Emma. It was true, I was wrong in not applying but I was objectively under-prepared for the coding interview.
+I checked out their website later that day and found out it was already too late to apply. “Next time!”, I thought. I had a similar conversation with one of my professors who previously worked at Google. 
 
-“Google is probably out of my league and the best I’ll do is get a phone screen and fail miserably.” 
+Being in a helpless situation in India, I learned to cope up with it. At the time, it kept my safe from feeling miserable about my career and potential. I accepted the fact that I couldn’t make it to Google and kept believing that even though my chances had slightly improved.
 
-Being in a helpless situation in India, I learned to cope up with it. At the time, it kept my safe from feeling miserable about my career and potential. I accepted the fact that I couldn’t make it to Google and kept believing that even though my chances had slightly improved. I was a victim of learned helplessness. 
+Sometimes, we’re in bad situations and it’s not possible to achieve certain things. We make assumptions about what we can do or cannot do based on the situation. And we keep holding on to these assumptions even if the situation improves. This is called learned helplessness.
 
-Sometimes, we’re in bad situations and it’s not possible to do m achieve certain things We make assumptions about what we can do or cannot do based on the situation. And we keep holding on to these assumptions even if the situation improves. This is called learned helplessness.
-
-Learned helplessness exists in everyone’s life in one way or the other, and part of everyone’s psyche. It’s not going to go away, I think we just need to keep rethinking our assumptions about what we can/cannot do.
+Learned helplessness exists in everyone’s life in one way or the other, and part of everyone’s psyche. It’s not going to go away, I think we just need to keep re-evaluating our assumptions every now and then.
 
 PS - Emma has a different name in real life. 

@@ -6,7 +6,7 @@ categories: piano
 author: "Jinay Shah"
 ---
 
-I'm correcting the mistake I made in programming. I didn't build extremely hard projects from the beginning and am now regretting that decision. With Piano, I wish to correct that by focussing on learning hard songs for my level. Theory is good but practicing and pushing my limits has been more fruitful at this stage. It's taking an average 1-2 months to learn each song. Learning has been necoming easier but so has been the difficulty of songs I choose to learn. So it takes about the same time. 
+I'm correcting the mistake I made in programming. I didn't build extremely hard projects from the beginning and am now regretting that decision. With Piano, I wish to correct that by focussing on learning hard songs for my level. Theory is good but practicing and pushing my limits has been more fruitful at this stage. It's taking an average 1-2 months to learn each song. Learning has been becoming easier but so has been the difficulty of songs I choose to learn. So it takes about the same time. Along with the songs, I've also mentioned the sources of the songs. 
 
 <span style="font-weight: 500; display: inline">Songs I've Learned</span>:
 * River Flows In You (PGN Piano)
@@ -21,7 +21,7 @@ I'm correcting the mistake I made in programming. I didn't build extremely hard 
 * Game of Thrones Theme (Jacob’s Piano)
 
 
-<span style="font-weight: 500; display: inline">Songs I Wish To Learn </span>
+<span style="font-weight: 500; display: inline">Songs I Wish To Learn</span>:
 * Stairway to Heaven (Costantino)
 * Game Of Thrones (Costantino)
 * Miracles (Costantino)
@@ -36,3 +36,4 @@ I'm correcting the mistake I made in programming. I didn't build extremely hard 
 * Lily (Riyandi Kusuma)
 * Faded (Ritandi Kusuma)
 * Marriage d’Amour
+* Sadness And Sorrow (Patrick)
