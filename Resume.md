@@ -12,10 +12,8 @@ Education
 
 <br>
 - <span style="font-weight: 500; display: inline">Thesis</span>:   Semantic Representation Of Human Behaviours Using Numerical Vectors
-- Built 5 neural network architectures for making behaviour vectors
-- System for deriving a numerical vector for player behavior in games, 
-  using Energy Based Models. Empirical analysis on how behavior vectors
-  enable better player style recognition and game fine-tuning for individual player styles. 
+- Built 4 neural network architectures for making behaviour vectors
+- The system takes a lot of behaviour data of a player and summarizes that into a single vector. This vector has the essence of everything that the player has done or can do, it can be used for other downstream tasks like action prediction, community detection, etc. 
 
 <p style="margin:0;display:inline;float:left;font-weight: 500;">Bachelor of Technology: IT</p>
 <p style="margin:0;display:inline;float:right" >May 2019</p>
