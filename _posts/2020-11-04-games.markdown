@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "I wish I could play call of duty right now"
+date:   2020-11-04 19:00:00 +0530
+categories: other
+author: "Jinay Shah"
+---
+
+I haven’t played a game in many years now. That doesn’t mean I don’t enjoy them. It’s quite the opposite. I do wish to play games all day with my friends, have popcorn and maybe watch a movie after we’re done playing. 
+
+If I want it so bad, why don’t I get a good console? It’s because of potential addiction and wastage of a lot of time. Maybe I can limit the time I play it? Only on some days? 
+
+Every extra minute I spend playing a game is not spent on preparing for a job at Google. I know it’s important to have fun, and play a bit. But I’ve found that it’s easier to keep a 100% policy than to keep a 95% policy of playing games. It’s just easier to not play them entirely right now, rather than exerting self control every day.
+
+I do have the time to play them, I just spend that time learning piano, taking long walks and talking with friends. Those activities are much more valuable to me. Hopefully, in the future when I don’t have to solve LeetCode problems everyday, I’ll get a new gaming console, a big TV, and a big couch for all my friends. 
+
+TLDR; I love playing games, I just can’t afford to play them right now because my career would be affected.

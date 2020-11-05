@@ -20,7 +20,7 @@ I come from a computer science background but when it comes to understanding big
 
 - <span style="font-weight: 500; display: inline">Kafka: The Definitive Guide</span> - This one is a pretty significant component of all data engineering systems. It's like duct tape in my opinion, having a ton of applications which are still being explored in the industry. Even if I don't use this anywhere in my search engine project (highly unlikely), knowing the right applications of this will be great to know.
 
-- <span style="font-weight: 500; display: inline">Go: Design Patterns for Real-World Projects</span> - Since Go is going to be my primary language for the first version of my search engine, this book is going to be a great case study of the language. Go provides the right balance of speed, performance, concurrency and popularity. Java has everything but I'm going with my instinct here. Go is the way to go.
+- <span style="font-weight: 500; display: inline">Hands-on Software Engineering With Go</span> - This book explains Go using a large complex project, a distributed search engine. The book starts with an assumption that the reader is familiar with Go and each chapter builds up on the project. The end goal is to have a distributed search engine deployed on Kubernetes, PageRank implemented for ranking, metrics collection in Prometheus and a lot more. This sounds like a perfect case study for micro-services and modern software engineering. I wish one of my university classes were like this!
 
 
 
