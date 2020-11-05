@@ -9,19 +9,32 @@ Podcasts are essential to my workflow. They keep me entertained during my chores
 
 Here are some of my favourite podcasts that I listen regularly:
 
-<span style="font-weight: 500;">Planet Money</span> - They pick something from our daily lives and explain the economics behind it. Episodes are usually ~20 min, have a great story to go with them and hosts are nice.
-<span style="font-weight: 500;">The Indicator</span> - It’s from the creators of Planet Money but has daily episodes of ~10 min. 
-<span style="font-weight: 500;">Optimal Finance Daily</span> - Skip the first minute of ads. The author picks an insightful article on finance and reads it nicely every day. I love the choice of articles and the ideas in them. Episodes are mostly less than 10 minutes and if the article is too big, he splits it over multiple days. 
-<span style="font-weight: 500;">Not Overthinking</span> - Two chaps overthinking about life, career, friendships and success. They’re obviously more intelligent and mature than me, so I like hearing their opinions on different topics. 
-<span style="font-weight: 500;">The Tim Ferris Show</span> - Tim is an excellent interviewer and has great questions for his guests. His guests usually top performers in their field and Tim usually tries to understand how they got where they are. Episodes are usually 2 hours long.
-<span style="font-weight: 500;">Hidden Brain</span> - Shankar explores one question or concept of psychology in each episode ~30 min. Shankar has a nice story and walks through a great thought process to explain something. It’s not just theory/concepts, his focus is on how these things affect our daily lives.
-<span style="font-weight: 500;">TED Radio Hour</span> - Awesome explorations into questions about life. Guy and Manoush both are great hosts. I liked listening to Manoush’s old podcast Note To Self back in the days. I listen to this one when in mood for deep conversations, not as often as the ones above. Episodes are usually ~1 hour.
-<span style="font-weight: 500;">Option Alpha Podcast</span> - This guy is underrated and very intelligent. I learned options trading and a lot more financial concepts from him. He’s smart, answers questions honestly, directly and usually plans out episodes in advance so they follow a good structure.
-<span style="font-weight: 500;">Astonishing Legends</span> - 2 guys presenting extremely in-depth research about paranormal legends. Their clarity of research is unmatched. They present everything at an entertaining pace, and is fun to listen on walks. 
-<span style="font-weight: 500;">You Are Not So Smart</span> - He explores a logical fallacy or some shortcoming of the human brain in each episode. Listening to all the ways in which our mind deceives itself is intriguing. 
-<span style="font-weight: 500;">WVFRM</span> - By MKBHD from YouTube. I like hearing him talk about technology and have been seeing his YT videos since 8 years now. 
-<span style="font-weight: 500;">Matti and Pete Show</span> - Peter Mckinnon’s podcast. I love watching his YouTube videos and listening to his ideas. This podcast is a way to know him more personally. 
-<span style="font-weight: 500;">Zero To Travel</span> - Awesome interviews about people who’re travelling and how they’re managing to do it. 
-<span style="font-weight: 500;">Honourable Mentions</span> - JRE Podcast, This American Life, Note To Self, and The Ground Up Show.
+1. <span style="font-weight: 500;">Planet Money</span> - They pick something from our daily lives and explain the economics behind it. Episodes are usually ~20 min, have a great story to go with them and hosts are nice.
+
+2. <span style="font-weight: 500;">The Indicator</span> - It’s from the creators of Planet Money but has daily episodes of ~10 min. 
+
+3. <span style="font-weight: 500;">Optimal Finance Daily</span> - Skip the first minute of ads. The author picks an insightful article on finance and reads it nicely every day. I love the choice of articles and the ideas in them. Episodes are mostly less than 10 minutes and if the article is too big, he splits it over multiple days. 
+
+4. <span style="font-weight: 500;">Not Overthinking</span> - Two chaps overthinking about life, career, friendships and success. They’re obviously more intelligent and mature than me, so I like hearing their opinions on different topics. 
+
+5. <span style="font-weight: 500;">The Tim Ferris Show</span> - Tim is an excellent interviewer and has great questions for his guests. His guests usually top performers in their field and Tim usually tries to understand how they got where they are. Episodes are usually 2 hours long.
+
+6. <span style="font-weight: 500;">Hidden Brain</span> - Shankar explores one question or concept of psychology in each episode ~30 min. Shankar has a nice story and walks through a great thought process to explain something. It’s not just theory/concepts, his focus is on how these things affect our daily lives.
+
+7. <span style="font-weight: 500;">TED Radio Hour</span> - Awesome explorations into questions about life. Guy and Manoush both are great hosts. I liked listening to Manoush’s old podcast Note To Self back in the days. I listen to this one when in mood for deep conversations, not as often as the ones above. Episodes are usually ~1 hour.
+
+8. <span style="font-weight: 500;">Option Alpha Podcast</span> - This guy is underrated and very intelligent. I learned options trading and a lot more financial concepts from him. He’s smart, answers questions honestly, directly and usually plans out episodes in advance so they follow a good structure.
+
+9. <span style="font-weight: 500;">Astonishing Legends</span> - 2 guys presenting extremely in-depth research about paranormal legends. Their clarity of research is unmatched. They present everything at an entertaining pace, and is fun to listen on walks. 
+
+10. <span style="font-weight: 500;">You Are Not So Smart</span> - He explores a logical fallacy or some shortcoming of the human brain in each episode. Listening to all the ways in which our mind deceives itself is intriguing. 
+
+11. <span style="font-weight: 500;">WVFRM</span> - By MKBHD from YouTube. I like hearing him talk about technology and have been seeing his YT videos since 8 years now. 
+
+12. <span style="font-weight: 500;">Matti and Pete Show</span> - Peter Mckinnon’s podcast. I love watching his YouTube videos and listening to his ideas. This podcast is a way to know him more personally. 
+
+13. <span style="font-weight: 500;">Zero To Travel</span> - Awesome interviews about people who’re travelling and how they’re managing to do it. 
+
+14. <span style="font-weight: 500;">Honourable Mentions</span> - JRE Podcast, This American Life, Note To Self, and The Ground Up Show.
 
 My list of subscriptions is a lot bigger than this list. It’s not like I listen to every single episode of these podcasts. I just go in, download what I want and listen to those episodes.
