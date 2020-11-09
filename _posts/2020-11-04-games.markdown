@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I wish I could play call of duty right now"
+title:  "I Wish I Could Play Call Of Duty Right Now"
 date:   2020-11-04 19:00:00 +0530
 categories: other
 author: "Jinay Shah"
