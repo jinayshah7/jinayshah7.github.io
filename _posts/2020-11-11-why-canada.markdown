@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Retire Early?"
+title:  "Why Canada?"
 date:   2020-11-11 19:00:00 +0530
 categories: other
 author: "Jinay Shah"
