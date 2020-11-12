@@ -34,10 +34,10 @@ Just because I’m born in the wrong place/ with the wrong colour doesn’t mean
 ### The Problem of Extra Income Sources
 If you only care about earning through your main job, this section might not appeal you. This is relevant for those who’re interested in diversifying their income sources through investments.
 
-##### During Masters Degree
+#### During Masters Degree
 I’m allowed to work unlimited hours on campus and 20 hours/week outside campus. During the vacation days, I’m allowed to work 40 hours/week. I’ve seen some do 60 hours/week in the vacations. For example, right now I’m working 20 hours/week for Bell and another two jobs (RA & TA) on campus. This is however not allowed in the US. Students are only allowed to work 20 hours ON CAMPUS. Good luck finding jobs.
 
-##### After Finishing Masters Degree
+#### After Finishing Masters Degree
 After getting a work permit in Canada, I’m allowed to have other capital gains.  Three years into the timeline, I’m already getting a PR, am able to register an LLC or LP and have any other income sources. At this point I can expand my option trading, invest in real estate, flip a house, or buy/start a business.
 
 This is not true for an immigrant in the USA. The only income they can have is from the company they’re employed to. Buy and hold is, however, allowed because they don’t actually realize the gains until the asset is sold. I think this is a major limitation in my point of view.
@@ -46,10 +46,10 @@ This is not true for an immigrant in the USA. The only income they can have is f
 
 As a Canadian resident, I can change to whatever jobs or roles I want without consequences. Thus I’m now more likely to get higher compensation and career growth by changing companies. It’s not about money, it’s also about getting multiple exposures to the industry by being in different teams. After year 3, I’m a Permanent Resident, so I don’t have to wake up everyday with the fear of being sent back. The peace of mind this provides is unmatched by money. Freedom is the best source of happiness in my opinion. This is not the case for someone in the US, here’s why:
 
-##### Getting Stuck Due To H1B
+#### Getting Stuck Due To H1B
 Changing companies is super hard on the H1B, it can take months in some cases. Sometimes, while changing companies, candidates have to start their 20 year long Green Card process from scratch. Staying at one company for 10-15 years is the best way to get low salary, lesser industry connections, lesser career growth and less of exposure in general. H1B people can’t quit easily and companies take advantage of this. I’ve seen Reddit/Quora posts mentioning how Fortune 500 companies exploit the situation. Please do more research about this, it’s rampant.
 
-##### Changing Government Rules
+#### Changing Government Rules
 The person in the US is living on a temporary visa and at the mercy of the government. One executive order can change someone’s fate and send them back home. I know all my connections in the US have to live in a constant fear of being deported, stopped at the airport or the visa policies being changed.
 
 ### Where is the USA Better Than Canada?
