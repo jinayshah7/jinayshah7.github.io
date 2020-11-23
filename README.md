@@ -1,1 +1,1 @@
-[Check out my blog!](jinayshah7.github.io)
+[Check out my blog!](https://jinayshah7.github.io)
