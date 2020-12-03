@@ -5,7 +5,7 @@ date:   2020-11-22 19:00:00 +0530
 categories: other
 author: "Jinay Shah"
 ---
-I don’t have the data to back this up. This is my personal opinion, so I’m not trying to convince you to leave ML. I’m just trying to lay out the thought process behind my decision. Here are some things I observed:
+I don’t have the data to back this up. This is my personal opinion, so I’m not trying to convince you to leave ML. I’m just trying to lay out the thought process behind my decision. For some clarity, I'm doing Masters research in ML, looking in graph embedding. I've genuinely poured all my hard work into learning ML concepts for the past couple of years, I hope that gives some credibility to my opinion. Here are some things I observed:
 
 
 ### Companies Don’t Need a Ton of DS/MLEs anyway
@@ -25,6 +25,8 @@ I guess that the whole field is going to merge into software engineering slowly.
 
 
 Specialized MLEs are good at tuning models and making them work. The important thing is, ML isn’t about tuning models anymore. The MLEs who do have a serious job are training the models and serving them through APIs. A regular MLE is more focused on trying to glue different tools together and make an application work. 
+
+A big portion of most ML job requirements ask for knowledge of data engineering and software engineering tools. Pure ML is just icing on the cake for these teams.
 
 
 ### Hand Wavy Development and Too Much Math

@@ -23,6 +23,7 @@ The other 80% comes from my search for specific topics. From time to time,  I ge
 - Tax Havens, Estate Planning, Trusts and Asset Protection - Just wanted to know how rich people handle their finances and life. Episodes on this were super impressive, mainly because no rich person would openly talk about this. It was like going into the restricted section in a library.
 - Growing real estate Investments, seller financing and finding lenders - Trying to find out how people handled their RE investments, raised money and how they felt about it. 
 - Angel Investing and Venture Capital - I ended up reading a couple of books on this but hearing some opinions from Jason Calcanis, Tim Ferris, Naval Ravikant was even more fun.
+- Naval Ravikant - Sometimes, I like the person so much, I'll download every episode in which they appear.
 
 To be honest, when I like some topic, podcasts are not my last stop. Again, I look for YouTube videos, articles, Reddit comments, books, etc., everything I can lay my hands on. Podcasts are just one medium of getting that exposure. 
 
