@@ -5,7 +5,7 @@ date:   2020-11-22 19:00:00 +0530
 categories: other
 author: "Jinay Shah"
 ---
-I don’t have the data to back this up. This is my personal opinion, so I’m not trying to convince you to leave ML. I’m just trying to lay out the thought process behind my decision. For some clarity, I'm doing Masters research in ML, looking in graph embedding. I've genuinely poured all my hard work into learning ML concepts for the past couple of years, I hope that gives some credibility to my opinion. Here are some things I observed:
+I don’t have the data to back this up. This is my personal opinion, so I’m not trying to convince you to leave ML. I’m just trying to lay out the thought process behind my decision. For some clarity, I'm doing a thesis based Masters, trying research graph embedding using ML. I've genuinely poured all my hard work into learning ML concepts for the past couple of years, I hope that gives some credibility to my opinion. Here are some things I observed:
 
 
 ### Companies Don’t Need a Ton of DS/MLEs anyway
