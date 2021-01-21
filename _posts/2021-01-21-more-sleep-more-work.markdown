@@ -20,12 +20,18 @@ Time wasn't the issue; I had figured it out by December. I decided to address th
 
 Along with that, I decided to get my procrastination in check. Something had to change to get more work done and get rid of distractions. That's when Cal Newport's Deep Work and the ideas came back to my mind. I listened to a couple of podcasts, YouTube videos about other people trying this and finally settled on this schedule. I've been following this for the last ten days. 
 
-5:00 AM - 5:30 AM - Get a shower, get ready, drink vegetable juice.
+5:00 AM - 5:30 AM - Get a shower, get ready, drink vegetable juice
+
 5:30 AM - 9:00 AM - Deep Work
+
 9:00 AM - 4:00 PM - Regular shallow work (jobs, chores, piano, guitar)
+
 4:00 PM - 5:00 PM - Workout 
+
 5:00 PM - 6:30 PM - Dinner
+
 6:30 PM - 8:00 PM - Chill out and unwind
+
 8:00 PM - SLEEP
 
 I get the essential brain intensive work done right at the beginning of the day. These are things that are very good for my career and future that require intense focus. I'm trying to do them when distractions are minimum, and my mind is at peak clarity. Right now, deep work can be any of these: Thesis work, Coding Interview Questions, High Priority Books. 
