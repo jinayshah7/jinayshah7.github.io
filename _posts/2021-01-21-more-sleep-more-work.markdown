@@ -38,7 +38,7 @@ I get the essential brain intensive work done right at the beginning of the day.
 
 During the deep work sessions, I construct the best environment possible to create laser-sharp focus. I start them with a 15 min meditation session (Tide App). No social media, no phone calls/emails and keeping digital usage to a minimum. For thesis work, I load all research papers on my iPad the day before, so the internet isn't needed. For Interview Questions, I have a physical book. For high priority books, I have them downloaded beforehand. So there's no excuse to use the internet here.
 
-So far, I love this schedule. It was a pain trying to sleep at 8 PM for the first couple of days, but my body cooperated from the 4th day onwards. Remember how I described all the things I was trying to do with my time? I've been able to thrive in all those areas without getting side effects like burn out and depression.
+So far, I love this schedule. It was a pain trying to sleep at 8 PM for the first couple of days, but my body cooperated from the 4th day onwards. Remember how I described all the things I was trying to do with my time? After this change, I've been able to thrive in all those areas without getting side effects like burn out and depression.
 
 Sleeping more has allowed me to thrive in all the jobs and hobbies I'm trying to do. Time was never the issue; the issue was always about getting enough rest, minimizing distractions and making space for the things that matter. Because I'm sleeping more, I can focus through the day and not feel like shit every morning after waking up. 
 
