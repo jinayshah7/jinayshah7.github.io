@@ -10,7 +10,7 @@ author: "Jinay Shah"
 
 I have a lot going on in life: Master's thesis, SWE Internship, Teaching Assistantship, Piano and Guitar classes. I also cook a healthy meal two times a day and do a one-hour workout. I'm also trying to do online courses and solving algorithms every day for interviews. That's a lot to take in. When I began doing all this together in September, I noticed my performance consistently going down in each task. By November, I was severely burned out and waiting desperately for a Christmas vacation. I thought I didn't have time to complete anything I was doing and struggled a bit during the last two months of 2020. 
 
-It's easy to attribute the burn out to the amount of work I was doing. Maybe I took too much on my plate and didn't have the time to complete it. Maybe doing it, all tired out my mind. The reality was, I had all the time in the world to keep up with all those tasks; I was spending it all mindlessly on the internet. I didn't want to do these tasks.
+It's easy to attribute the burn out to the amount of work I was doing. Maybe I took too much on my plate and didn't have the time to complete it. Maybe doing all of it tired out my mind. The reality was, I had all the time in the world to keep up with all those tasks; I was spending it all mindlessly on the internet. I didn't want to do complete the most important tasks.
 
 The most crucial detail is that I was consistently staying up late at night, wasting time on the internet, sleeping only 6 hours every day. That made me feel sluggish for the entire day that followed. All my workouts and green vegetable juices in the morning was useless in this situation. 
 
